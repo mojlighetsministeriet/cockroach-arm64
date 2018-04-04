@@ -1,0 +1,3 @@
+This is a placeholder for the cockroachdb arm64 binary as it's too large for GitHub to allow upload.
+
+For instructions on how to build the binary see https://github.com/cockroachdb/cockroach/issues/20433#issuecomment-377618122
